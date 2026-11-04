@@ -1,0 +1,32 @@
+{
+"name": "ECOCHAIN AUDIT · TRAZA//CO₂ WMS",
+"short_name": "TRAZA//CO2",
+"description": "Maqueta funcional de auditoría de cadena de suministro con visibilidad operacional (compras, almacén, picking, transporte, logística inversa) y trazabilidad del impacto ambiental en Alcance 1, 2 y 3 conforme a GHG Protocol, ISO 14001, ISO 50001, ESRS/CSRD y SBTi. Datos sintéticos. Producto de TRAZA//CO₂ WMS.",
+"scope": "./",
+"start_url": "./index.html",
+"lang": "es",
+"dir": "ltr",
+"orientation": "any",
+"display": "standalone",
+"display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+"background_color": "#071a14",
+"theme_color": "#071a14",
+"categories": ["business", "productivity", "utilities"],
+"keywords": ["auditoría cadena de suministro","scope 1 2 3","GHG Protocol","huella de carbono","ISO 14001","ISO 50001","logística sostenible","CSRD","economía circular","última milla","gemelo digital","KPI","SGA verde"],
+"icons": [
+  { "src": "icon-cart.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" },
+  { "src": "icon-cart.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" },
+  { "src": "icon-maskable.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+],
+"shortcuts": [
+  { "name": "Torre de Control de Carbono", "short_name": "Carbono", "description": "Inventario consolidado Alcance 1, 2 y 3", "url": "./index.html#/overview", "icons": [{ "src": "icon-cart.svg", "sizes": "512x512", "type": "image/svg+xml" }] },
+  { "name": "Gemelo Digital", "short_name": "Simular", "description": "Simulador de escenarios de reducción de emisiones", "url": "./index.html#/twin", "icons": [{ "src": "icon-cart.svg", "sizes": "512x512", "type": "image/svg+xml" }] },
+  { "name": "Auditoría y No Conformidades", "short_name": "Auditoría", "description": "Hallazgos, checklist y acciones correctivas", "url": "./index.html#/audit", "icons": [{ "src": "icon-cart.svg", "sizes": "512x512", "type": "image/svg+xml" }] },
+  { "name": "Transporte Multimodal", "short_name": "Transporte", "description": "Rutas, llenado de contenedores y última milla", "url": "./index.html#/transport", "icons": [{ "src": "icon-cart.svg", "sizes": "512x512", "type": "image/svg+xml" }] }
+"screenshots": [
+  { "src": "docs/screenshot-wide.svg", "sizes": "1920x1080", "type": "image/svg+xml", "form_factor": "wide", "label": "Torre de Control de Carbono con evolución por alcance" },
+  { "src": "docs/screenshot-wide.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Torre de Control de Carbono" }
+],
+,
+"prefer_related_applications": false
+}

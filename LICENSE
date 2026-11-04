@@ -1,0 +1,71 @@
+TRAZA//CO₂ SOURCE-AVAILABLE LICENSE · versión 1.0
+
+Copyright (c) 2026 Miguel Ángel Layunta López — TRAZA//CO₂ WMS
+Sistemas de Trazabilidad Carbono · Logística 5.0
+
+1. OBJETO
+ Este archivo acompaña al software "ECOCHAIN AUDIT" (ficheros index.html, sw.js,
+ manifest.json, icon-cart.svg, icon-maskable.svg y su documentación), una maqueta
+ funcional de auditoría de cadena de suministro con trazabilidad de emisiones
+ Alcance 1, 2 y 3. Todos los datos exhibidos son sintéticos.
+
+2. CONCESIÓN DE DERECHOS
+ Se concede a cualquier persona que obtenga una copia del software un permiso
+ gratuito, no exclusivo, intransferible y mundial para:
+
+ a) USARLO: ejecutarlo localmente o desplegarlo para uso interno propio o de la
+    organización para la que trabaja el licenciatario, incluida su cadena de
+    suministro.
+ b) ESTUDIARLO Y MODIFICARLO: analizar el código y adaptarlo a necesidades
+    internas (marcos normativos, factores de emisión, árbol de KPIs, idioma,
+    identidad corporativa propia).
+ c) DOCUMENTAR Y PRESENTAR: citar, reproducir en informes internos y mostrar
+    capturas del software con fines formativos, de propuesta técnica o de
+    auditoría, manteniendo la atribución del apartado 4.
+
+3. RESTRICCIONES
+ Queda expresamente prohibido, sin licencia escrita separada del titular:
+
+ a) REDISTRIBUIR o revender el software, total o parcialmente modificado, como
+    producto, servicio, plantilla o repositorio público con fines comerciales.
+ b) OFRECERLO COMO SAAS o servicio gestionado de terceros.
+ c) SUPRIMIR O ALTERAR la autoría, los avisos de copyright y los avisos de
+    "datos sintéticos" de la interfaz, el README y los ficheros generados.
+ d) PRESENTAR COMO REAL la información que genera: el software no es un
+    inventario GEI verificado ni sustituye a una memoria de sostenibilidad.
+ e) USAR LAS MARCAS "TRAZA//CO2", "ECOCHAIN AUDIT" o el logotipo asociado, salvo
+    para identificar el origen del software.
+
+4. ATRIBUCIÓN OBLIGATORIA
+ Toda copia o derivado interno deberá conservar, en el pie de la aplicación y en
+ el README, la mención:
+     "ECOCHAIN AUDIT · TRAZA//CO₂ WMS — © Miguel Ángel Layunta López"
+
+5. MARCAS DE TERCEROS
+ Las marcas de terceros mencionadas en los datos de ejemplo y en el catálogo de
+ conectores (SAP, Oracle, Manhattan, Maersk, MSC, Hapag-Lloyd, Iberia, Renfe,
+ InPost y otras) pertenecen a sus titulares y se citan solo a título descriptivo.
+ El titular de esta licencia no declara afiliación, patrocinio ni aval de dichas
+ entidades, y las cifras que las acompañan son ficticias.
+
+6. GARANTÍA
+ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+ IMPLÍCITA, INCLUIDAS LAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN CONCRETO Y
+ NO INFRACCIÓN. EL TITULAR NO RESPONDE DE LOS CÁLCULOS EMITIDOS NI DE SU USO
+ CONTABLE, FISCAL, REGULATORIO O DE REPORTING DE SOSTENIBILIDAD.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+ EN NINGÚN CASO EL TITULAR SERÁ RESPONSABLE DE DAÑOS DIRECTOS, INDIRECTOS,
+ INCIDENTALES O CONSECUENTES, INCLUIDA LA PÉRDIDA DE DATOS O DE OPORTUNIDADES
+ COMERCIALES, AUNQUE SE HAYA ADVERTIDO DE SU POSIBILIDAD.
+
+8. TERMINACIÓN
+ El incumplimiento de las restricciones del apartado 3 extingue automáticamente
+ los permisos concedidos, sin perjuicio de las acciones legales que correspondan.
+
+9. CONTACTO PARA LICENCIAS COMERCIALES
+ Para distribución como producto, SaaS, white-label, uso por parte de terceros
+ distintos del licenciatario o cesión de derechos: solicitar licencia comercial
+ al titular (contacto a través del perfil de GitHub o de la web de TRAZA//CO₂).
+
+FIN DE LA LICENCIA
