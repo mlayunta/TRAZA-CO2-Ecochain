@@ -1,0 +1,20 @@
+{
+  "name": "ECOCHAIN AUDIT · TRAZA//CO₂ WMS",
+  "short_name": "TRAZA//CO₂",
+  "description": "Maqueta funcional de auditoría de cadena de suministro con trazabilidad ambiental y huella de carbono.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#071a14",
+  "theme_color": "#071a14",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-cart.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
